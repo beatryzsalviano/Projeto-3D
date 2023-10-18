@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1697624950 source:c:\users\mbeat\desktop\project\project\main.cpp
+	"Sculptor.h"
+
+1697625028 c:\users\mbeat\desktop\project\project\include\sculptor.h
+	<cmath>
+	<cstdlib>
+	<fstream>
+	<iomanip>
+	<iostream>
+
+1697624998 source:c:\users\mbeat\desktop\project\project\src\sculptor.cpp
+	"Sculptor.h"
+
